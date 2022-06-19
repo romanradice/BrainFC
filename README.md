@@ -1,4 +1,4 @@
-# BrainFuck
+# BrainFC
 
 ## Project
 A simple BrainFuck interpreter
